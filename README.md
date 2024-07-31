@@ -49,11 +49,11 @@
  ### Database
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="sqlite" width="40" height="40"/> </a>
 
 ### Other Software & Tools
 
-<a href="https://git-scm.com/" target="_blank">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg
-" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a>
 
